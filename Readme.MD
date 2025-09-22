@@ -185,6 +185,8 @@ sudo apt install brave-browser
 Copy the `scripts` folder to ~/home<br>
 Copy `update.desktop` to `/usr/share/applications/`
 
+> ⚠️ **Change the path** of the script in the desktop file (in our example, in the home directory of user "jack")
+
 ## General tools
 
 ### Base programs
@@ -298,7 +300,8 @@ pip install sympy
     Type=Application
     Categories=Forensics;
     ```
-    
+    > ⚠️ **Change the path** of the program and icon in the desktop file (in our example, in the home directory of user "jack")
+
     </details>
 
 </details>
@@ -343,7 +346,7 @@ pip install sympy
     Type=Application
     Categories=Reverse;
     ```
-
+    > ⚠️ **Change the path** of the program and icon in the desktop file (in our example, in the home directory of user "jack")
     </details>
 
 </details>
