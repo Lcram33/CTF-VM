@@ -47,8 +47,7 @@ My customized setup to build a <img src="img/debian.png" width=25 /> **Debian 12
 
 Just follow the installation steps of the installer. You can use the graphical installer or the text-based installer.
 
->[!WARNING]
-> Make sure to **remember the username and password** you set during the installation. The most convenient option is to note it on your VM description field in your VM manager. Yes, it is bad practice for real production environments, but an acceptable risk in our case.
+> ⚠️ **WARNING** : Make sure to **remember the username and password** you set during the installation. The most convenient option is to note it on your VM description field in your VM manager. Yes, it is bad practice for real production environments, but an acceptable risk in our case.
 
 ### GNOME install
 
