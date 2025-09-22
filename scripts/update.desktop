@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Update Tool
+Categories=Application;System
+Exec=/home/jack/scripts/update.sh
+Icon=/home/jack/scripts/update.png
+Terminal=true
