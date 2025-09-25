@@ -1,5 +1,9 @@
 # Capture The Flag VM
 
+<div align="right">  
+  <img src="img/TLP_CLEAR.png" alt="TLP" width="140"/>
+</div>
+
 <div align="center">
   <img src="img/logo.png" alt="CTF VM Logo" width="250"/>
 </div>
